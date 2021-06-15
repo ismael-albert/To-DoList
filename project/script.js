@@ -10,7 +10,8 @@ var ul = document.getElementById("myList");
 
 			itemId = ul.childElementCount;
 
-			li 	   = createItemEl(item.value,itemId);
+			li   = createItemEl(item.value,itemId);
+            
 			li.appendChild(createRemoveTaskBtn(itemId));
 			ul.appendChild(li);
 			item.value = "";
