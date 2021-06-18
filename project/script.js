@@ -65,27 +65,3 @@ var ul = document.getElementById("myList");
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
