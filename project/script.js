@@ -48,21 +48,3 @@ var ul = document.getElementById("myList");
 		btn.innerHTML ="X";
 		return btn;
 	}
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
